@@ -1,7 +1,7 @@
 # Web Scraping and ETL
 
 # Introduction
-This project provides the Web Scraping and ETL to create and populate data from data source and load it into PostgreSQL.
+This project provides the Web Scraping and ETL implementation to create and populate data from data source and load it into PostgreSQL.
 
 # Architecture
 ![Screenshot from 2022-10-08 08-00-47](https://user-images.githubusercontent.com/63891089/194680200-efdfb4bf-d6fa-4c66-9d2b-8c8e71e8bde8.png)
